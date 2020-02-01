@@ -3,4 +3,4 @@
 # Build Script for WebcamJS
 # Install uglifyjs first: sudo npm install uglify-js -g
 
-uglifyjs webcam.js -o webcam.min.js --mangle --reserved "Webcam" --preamble "// WebcamJS v1.0.25 - http://github.com/jhuckaby/webcamjs - MIT Licensed"
+uglifyjs tmb-webcam.js -o tmb-webcam.min.js --mangle --reserved "Webcam" --preamble "// TMB-WebcamJS v1.0.0 - http://github.com/jrcatalan/tmb-webcamjs - MIT Licensed"

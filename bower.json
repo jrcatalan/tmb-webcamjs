@@ -1,12 +1,12 @@
 {
-  "name": "webcamjs",
+  "name": "tmb-webcamjs",
   "version": "1.0.26",
-  "homepage": "https://github.com/jhuckaby/webcamjs",
+  "homepage": "https://github.com/jrcatalan/tmb-webcamjs",
   "authors": [
-    "Joseph Huckaby <jhuckaby@gmail.com>"
+    "Jose Ramon Catalan <jrcatalantmb@gmail.com>"
   ],
   "description": "HTML5 Webcam Image Capture Library with Flash Fallback",
-  "main": "webcam.js",
+  "main": "tmb-webcam.js",
   "keywords": [
     "webcam"
   ],
